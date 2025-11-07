@@ -1,0 +1,19 @@
+/* 
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:;
+    gap: 60px;
+    background-color: #a6dcea;
+}
+.imgdiv{
+    margin-left: 0px;
+}
+.titlediv{
+    margin-left: 500px;
+}
+.titlediv>h1{
+    text-align: center;
+    color: red;
+} */
